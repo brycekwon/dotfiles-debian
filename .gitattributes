@@ -1,1 +1,4 @@
-*          text=auto
+*           text=auto
+
+
+dot-bashrc  text eol=lf linguist-language=sh
